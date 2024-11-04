@@ -1,0 +1,107 @@
+/* FOOTER */
+.footer {
+  background: rgba(243, 246, 250, 0.0901960784);
+  padding-top: 70px;
+  padding-bottom: 0;
+}
+.footer .footer_copyright {
+  color: #1c1c1c;
+  font-size: 14px;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+.footer .footer_about ul {
+  margin: 0;
+  padding: 0;
+}
+.footer .footer_about ul li {
+  font-size: 16px;
+  color: #1c1c1c;
+  line-height: 36px;
+  list-style: none;
+}
+.footer .footer_widget {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.footer .footer_widget h3 {
+  color: #1c1c1c;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.footer .footer_widget ul {
+  width: 50%;
+  float: left;
+}
+.footer .footer_widget ul li {
+  list-style: none;
+  font-size: 14px;
+  color: #1c1c1c;
+  line-height: 36px;
+  text-align: center;
+}
+.footer .footer_widget ul li a {
+  color: #1c1c1c;
+  text-decoration: none;
+}
+.footer .footer_widget ul li :hover {
+  color: #36d9eb;
+}
+.footer .footer_widget form {
+  position: relative;
+  margin-bottom: 30px;
+}
+.footer .footer_widget form input {
+  width: 100%;
+  font-size: 16px;
+  padding-left: 20px;
+  color: #1c1c1c;
+  height: 46px;
+  border: 1px solid #ededed;
+}
+.footer .footer_widget form button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 0 26px;
+  height: 100%;
+}
+.footer .footer_widget form .site-btn {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 800;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 10px 20px 10px;
+  background: #36d9eb;
+  /* border-radius: 0px 10px 10px 0px; */
+  border: none;
+}
+.footer .footer_copyright_text {
+  margin-top: 30px;
+}
+.footer .footer_copyright_text p {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #1c1c1c;
+  line-height: 26px;
+  padding-bottom: 0;
+}
+.footer .footer_right_social {
+  text-align: center;
+  padding-top: 30px;
+}
+.footer .footer_right_social a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+.footer .footer_right_social a i {
+  color: #1c1c1c;
+  font-size: 30px;
+}
+.footer .footer_right_social :hover {
+  text-decoration: none;
+  color: #36d9eb;
+}/*# sourceMappingURL=style.css.map */
